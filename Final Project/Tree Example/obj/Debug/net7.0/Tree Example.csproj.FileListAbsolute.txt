@@ -1,0 +1,15 @@
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\bin\Debug\net7.0\Tree Example.exe
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\bin\Debug\net7.0\Tree Example.deps.json
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\bin\Debug\net7.0\Tree Example.runtimeconfig.json
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\bin\Debug\net7.0\Tree Example.dll
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\bin\Debug\net7.0\Tree Example.pdb
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\Tree Example.csproj.AssemblyReference.cache
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\Tree Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\Tree Example.AssemblyInfoInputs.cache
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\Tree Example.AssemblyInfo.cs
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\Tree Example.csproj.CoreCompileInputs.cache
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\Tree Example.dll
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\refint\Tree Example.dll
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\Tree Example.pdb
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\Tree Example.genruntimeconfig.cache
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Example\obj\Debug\net7.0\ref\Tree Example.dll

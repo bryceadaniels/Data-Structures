@@ -1,0 +1,15 @@
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\Tree Solution.csproj.AssemblyReference.cache
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\Tree Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\Tree Solution.AssemblyInfoInputs.cache
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\Tree Solution.AssemblyInfo.cs
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\Tree Solution.csproj.CoreCompileInputs.cache
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\bin\Debug\net7.0\Tree Solution.exe
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\bin\Debug\net7.0\Tree Solution.deps.json
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\bin\Debug\net7.0\Tree Solution.runtimeconfig.json
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\bin\Debug\net7.0\Tree Solution.dll
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\bin\Debug\net7.0\Tree Solution.pdb
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\Tree Solution.dll
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\refint\Tree Solution.dll
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\Tree Solution.pdb
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\Tree Solution.genruntimeconfig.cache
+C:\Users\bryce\OneDrive\Documents\GitHub\final-project-bryceadaniels\Tree Solution\obj\Debug\net7.0\ref\Tree Solution.dll
